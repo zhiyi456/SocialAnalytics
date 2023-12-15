@@ -1,0 +1,4 @@
+pandas==1.5.0
+snscrape==0.4.3.20220107.dev65+g46a6030
+tweepy==4.10.0
+vaderSentiment==3.3.2

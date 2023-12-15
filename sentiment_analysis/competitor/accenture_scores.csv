@@ -1,0 +1,493 @@
+,Sentiment Score
+0,Positive
+1,Very Positive
+2,Neutral
+3,Very Positive
+4,Neutral
+5,Positive
+6,Positive
+7,Neutral
+8,Positive
+9,Neutral
+10,Neutral
+11,Neutral
+12,Very Positive
+13,Positive
+14,Neutral
+15,Positive
+16,Neutral
+17,Neutral
+18,Neutral
+19,Very Positive
+20,Very Positive
+21,Positive
+22,Positive
+23,Very Positive
+24,Neutral
+25,Neutral
+26,Very Positive
+27,Positive
+28,Positive
+29,Positive
+30,Positive
+31,Very Positive
+32,Very Positive
+33,Positive
+34,Very Positive
+35,Very Positive
+36,Positive
+37,Positive
+38,Very Positive
+39,Very Positive
+40,Positive
+41,Positive
+42,Very Positive
+43,Positive
+44,Very Positive
+45,Positive
+46,Positive
+47,Positive
+48,Positive
+49,Positive
+50,Very Positive
+51,Positive
+52,Positive
+53,Positive
+54,Very Positive
+55,Neutral
+56,Positive
+57,Very Positive
+58,Very Positive
+59,Very Positive
+60,Positive
+61,Positive
+62,Positive
+63,Very Positive
+64,Very Positive
+65,Very Positive
+66,Positive
+67,Positive
+68,Neutral
+69,Positive
+70,Positive
+71,Positive
+72,Positive
+73,Positive
+74,Very Positive
+75,Negative
+76,Negative
+77,Very Positive
+78,Very Positive
+79,Very Positive
+80,Very Positive
+81,Positive
+82,Very Positive
+83,Positive
+84,Very Positive
+85,Positive
+86,Very Positive
+87,Very Positive
+88,Positive
+89,Very Positive
+90,Positive
+91,Positive
+92,Positive
+93,Positive
+94,Very Positive
+95,Positive
+96,Positive
+97,Very Positive
+98,Positive
+99,Positive
+100,Negative
+101,Very Positive
+102,Positive
+103,Positive
+104,Very Positive
+105,Very Positive
+106,Positive
+107,Very Positive
+108,Positive
+109,Positive
+110,Very Positive
+111,Positive
+112,Very Positive
+113,Positive
+114,Positive
+115,Very Positive
+116,Neutral
+117,Very Positive
+118,Very Positive
+119,Very Positive
+120,Very Positive
+121,Neutral
+122,Positive
+123,Very Positive
+124,Positive
+125,Positive
+126,Very Positive
+127,Positive
+128,Very Positive
+129,Positive
+130,Positive
+131,Very Positive
+132,Very Positive
+133,Positive
+134,Positive
+135,Very Positive
+136,Positive
+137,Positive
+138,Positive
+139,Very Positive
+140,Positive
+141,Neutral
+142,Very Positive
+143,Positive
+144,Very Positive
+145,Very Positive
+146,Very Positive
+147,Very Positive
+148,Very Positive
+149,Very Positive
+150,Very Positive
+151,Very Positive
+152,Positive
+153,Positive
+154,Very Positive
+155,Positive
+156,Positive
+157,Very Positive
+158,Very Positive
+159,Positive
+160,Very Positive
+161,Positive
+162,Very Positive
+163,Very Positive
+164,Very Positive
+165,Neutral
+166,Very Positive
+167,Neutral
+168,Very Positive
+169,Negative
+170,Very Positive
+171,Very Positive
+172,Positive
+173,Very Positive
+174,Very Positive
+175,Positive
+176,Very Positive
+177,Very Positive
+178,Very Positive
+179,Positive
+180,Positive
+181,Very Positive
+182,Positive
+183,Very Positive
+184,Very Positive
+185,Very Positive
+186,Positive
+187,Positive
+188,Positive
+189,Neutral
+190,Negative
+191,Very Positive
+192,Positive
+193,Very Positive
+194,Very Positive
+195,Very Positive
+196,Positive
+197,Very Positive
+198,Very Positive
+199,Positive
+200,Very Positive
+201,Positive
+202,Very Positive
+203,Negative
+204,Very Positive
+205,Very Positive
+206,Positive
+207,Very Positive
+208,Very Positive
+209,Negative
+210,Very Positive
+211,Positive
+212,Positive
+213,Very Positive
+214,Positive
+215,Very Positive
+216,Positive
+217,Positive
+218,Very Positive
+219,Very Positive
+220,Very Positive
+221,Very Positive
+222,Very Positive
+223,Positive
+224,Positive
+225,Positive
+226,Very Positive
+227,Very Positive
+228,Very Positive
+229,Very Positive
+230,Positive
+231,Very Positive
+232,Very Positive
+233,Very Positive
+234,Very Positive
+235,Very Positive
+236,Positive
+237,Negative
+238,Very Positive
+239,Positive
+240,Very Positive
+241,Positive
+242,Very Positive
+243,Positive
+244,Negative
+245,Positive
+246,Positive
+247,Very Positive
+248,Very Positive
+249,Very Positive
+250,Very Positive
+251,Very Positive
+252,Very Positive
+253,Negative
+254,Positive
+255,Positive
+256,Positive
+257,Very Positive
+258,Positive
+259,Positive
+260,Very Positive
+261,Very Positive
+262,Positive
+263,Very Positive
+264,Very Positive
+265,Very Positive
+266,Positive
+267,Very Positive
+268,Positive
+269,Very Positive
+270,Very Positive
+271,Very Positive
+272,Very Positive
+273,Positive
+274,Very Positive
+275,Positive
+276,Positive
+277,Neutral
+278,Positive
+279,Neutral
+280,Positive
+281,Positive
+282,Positive
+283,Neutral
+284,Positive
+285,Positive
+286,Very Positive
+287,Positive
+288,Negative
+289,Neutral
+290,Positive
+291,Positive
+292,Positive
+293,Neutral
+294,Positive
+295,Positive
+296,Positive
+297,Positive
+298,Positive
+299,Positive
+300,Positive
+301,Positive
+302,Positive
+303,Neutral
+304,Positive
+305,Negative
+306,Positive
+307,Positive
+308,Neutral
+309,Neutral
+310,Neutral
+311,Neutral
+312,Positive
+313,Positive
+314,Neutral
+315,Neutral
+316,Positive
+317,Positive
+318,Positive
+319,Positive
+320,Positive
+321,Positive
+322,Positive
+323,Positive
+324,Negative
+325,Positive
+326,Neutral
+327,Positive
+328,Neutral
+329,Positive
+330,Neutral
+331,Positive
+332,Positive
+333,Negative
+334,Neutral
+335,Positive
+336,Positive
+337,Positive
+338,Very Positive
+339,Positive
+340,Neutral
+341,Positive
+342,Neutral
+343,Positive
+344,Neutral
+345,Neutral
+346,Negative
+347,Neutral
+348,Very Positive
+349,Neutral
+350,Positive
+351,Positive
+352,Positive
+353,Positive
+354,Negative
+355,Negative
+356,Negative
+357,Neutral
+358,Positive
+359,Positive
+360,Neutral
+361,Positive
+362,Neutral
+363,Very Positive
+364,Neutral
+365,Neutral
+366,Neutral
+367,Neutral
+368,Positive
+369,Negative
+370,Neutral
+371,Negative
+372,Neutral
+373,Neutral
+374,Positive
+375,Positive
+376,Neutral
+377,Neutral
+378,Positive
+379,Neutral
+380,Positive
+381,Neutral
+382,Neutral
+383,Positive
+384,Neutral
+385,Negative
+386,Very Positive
+387,Neutral
+388,Positive
+389,Positive
+390,Neutral
+391,Very Positive
+392,Neutral
+393,Neutral
+394,Neutral
+395,Positive
+396,Neutral
+397,Positive
+398,Positive
+399,Positive
+400,Neutral
+401,Neutral
+402,Positive
+403,Very Positive
+404,Positive
+405,Negative
+406,Positive
+407,Positive
+408,Negative
+409,Neutral
+410,Neutral
+411,Positive
+412,Positive
+413,Positive
+414,Positive
+415,Positive
+416,Neutral
+417,Negative
+418,Positive
+419,Positive
+420,Positive
+421,Neutral
+422,Neutral
+423,Neutral
+424,Positive
+425,Positive
+426,Neutral
+427,Neutral
+428,Positive
+429,Positive
+430,Positive
+431,Positive
+432,Positive
+433,Very Positive
+434,Positive
+435,Neutral
+436,Positive
+437,Positive
+438,Positive
+439,Neutral
+440,Positive
+441,Very Positive
+442,Positive
+443,Very Positive
+444,Very Positive
+445,Positive
+446,Neutral
+447,Positive
+448,Very Positive
+449,Neutral
+450,Positive
+451,Positive
+452,Positive
+453,Very Positive
+454,Positive
+455,Positive
+456,Positive
+457,Positive
+458,Positive
+459,Negative
+460,Positive
+461,Positive
+462,Neutral
+463,Positive
+464,Neutral
+465,Neutral
+466,Neutral
+467,Positive
+468,Neutral
+469,Positive
+470,Positive
+471,Positive
+472,Positive
+473,Positive
+474,Neutral
+475,Neutral
+476,Positive
+477,Positive
+478,Negative
+479,Negative
+480,Neutral
+481,Positive
+482,Neutral
+483,Neutral
+484,Positive
+485,Neutral
+486,Neutral
+487,Neutral
+488,Positive
+489,Positive
+490,Neutral
+491,Neutral
