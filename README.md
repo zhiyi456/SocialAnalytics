@@ -9,7 +9,7 @@ How to improve the quantity and quality of participants for future hackathons?
 ## Solution
 Recommending the best-fit solution that aims to support Dell Technologies future hackathons with their partners to help nurture the next generation of talents, increase Dell Technologies market share in the Cloud industry through sentiment analysis, topic modelling and network analysis.
 
-## Websties Scraped
+## Websites Scraped
 * Linkedin
 * Twitter
 * Reddit
